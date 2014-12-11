@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5064" systemVersion="13D65" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="MeuPensamento" representedClassName="MeuPensamento">
+        <attribute name="latitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="text" attributeType="String" syncable="YES"/>
+        <attribute name="timeStamp" attributeType="Date">
+            <userInfo/>
+        </attribute>
+        <relationship name="image" maxCount="1" deletionRule="Cascade" destinationEntity="PensamentoImage" inverseName="pensamento" inverseEntity="PensamentoImage" syncable="YES"/>
+        <userInfo/>
+    </entity>
+    <entity name="PensamentoImage" representedClassName="PensamentoImage" syncable="YES">
+        <attribute name="cell" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="name" attributeType="String" syncable="YES"/>
+        <attribute name="thumbnail" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <relationship name="pensamento" maxCount="1" deletionRule="Cascade" destinationEntity="MeuPensamento" inverseName="image" inverseEntity="MeuPensamento" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="MeuPensamento" positionX="-2223" positionY="-2844" width="128" height="118"/>
+        <element name="PensamentoImage" positionX="-2054" positionY="-2844" width="128" height="103"/>
+    </elements>
+</model>

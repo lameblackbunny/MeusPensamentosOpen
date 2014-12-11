@@ -1,0 +1,69 @@
+
+/* Class = "IBUITabBarItem"; title = "About"; ObjectID = "1QD-tZ-if8"; */
+"1QD-tZ-if8.title" = "About";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "2pz-XF-uhl"; */
+"2pz-XF-uhl.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Map"; ObjectID = "8uE-9e-5dE"; */
+"8uE-9e-5dE.title" = "Map";
+
+/* Class = "IBUIViewController"; title = "Detail"; ObjectID = "Ah7-4n-0Wa"; */
+"Ah7-4n-0Wa.title" = "Detail";
+
+/* Class = "IBUITabBarItem"; title = "Map"; ObjectID = "G2a-bA-rd2"; */
+"G2a-bA-rd2.title" = "Map";
+
+/* Class = "IBUITextField"; placeholder = "What are you thinking about right now?"; ObjectID = "HhZ-9f-1io"; */
+"HhZ-9f-1io.placeholder" = "What are you thinking about right now?";
+
+/* Class = "IBUITabBarItem"; title = "Map"; ObjectID = "Kix-QW-JdJ"; */
+"Kix-QW-JdJ.title" = "Map";
+
+/* Class = "IBUITabBarItem"; title = "Add"; ObjectID = "Pvk-ja-BKC"; */
+"Pvk-ja-BKC.title" = "Add";
+
+/* Class = "IBUILabel"; text = "Thought"; ObjectID = "U8z-6k-79b"; */
+"U8z-6k-79b.text" = "Thought";
+
+/* Class = "IBUIButton"; normalTitle = "Add Thought"; ObjectID = "VVE-dB-XR8"; */
+"VVE-dB-XR8.normalTitle" = "Add Thought";
+
+/* Class = "IBUITabBarItem"; title = "Add"; ObjectID = "Xpz-qQ-9Do"; */
+"Xpz-qQ-9Do.title" = "Add";
+
+/* Class = "IBUINavigationItem"; title = "New Thought"; ObjectID = "bnV-DH-xZq"; */
+"bnV-DH-xZq.title" = "New Thought";
+
+/* Class = "IBUINavigationItem"; title = "Thought"; ObjectID = "cra-N8-TIN"; */
+"cra-N8-TIN.title" = "Thought";
+
+/* Class = "IBUIBarButtonItem"; title = " "; ObjectID = "eLw-AU-Yz8"; */
+"eLw-AU-Yz8.title" = " ";
+
+/* Class = "IBUIBarButtonItem"; title = " "; ObjectID = "gGI-p4-iWS"; */
+"gGI-p4-iWS.title" = " ";
+
+/* Class = "IBUITabBarItem"; title = "Thoughts"; ObjectID = "nGt-Yz-jFb"; */
+"nGt-Yz-jFb.title" = "Thoughts";
+
+/* Class = "IBUIBarButtonItem"; title = " "; ObjectID = "pBO-88-FSC"; */
+"pBO-88-FSC.title" = " ";
+
+/* Class = "IBUITableViewController"; title = "Master"; ObjectID = "pGg-6v-bdr"; */
+"pGg-6v-bdr.title" = "Master";
+
+/* Class = "IBUIBarButtonItem"; title = " "; ObjectID = "r68-Lj-oQc"; */
+"r68-Lj-oQc.title" = " ";
+
+/* Class = "IBUITabBarItem"; title = "Add"; ObjectID = "rJo-j9-8Xe"; */
+"rJo-j9-8Xe.title" = "Add";
+
+/* Class = "IBUITabBarItem"; title = "Thoughts"; ObjectID = "rVK-L0-qC0"; */
+"rVK-L0-qC0.title" = "Thoughts";
+
+/* Class = "IBUINavigationItem"; title = "Thoughts"; ObjectID = "tQt-TN-PWz"; */
+"tQt-TN-PWz.title" = "Thoughts";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "vZ6-14-CAz"; */
+"vZ6-14-CAz.text" = "Label";
